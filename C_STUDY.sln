@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C_Manual", "HellowWorld\C_Manual.csproj", "{C913EE21-76BF-4F7D-8FC7-2047C0CD651F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "HellowWorld\Test.csproj", "{C913EE21-76BF-4F7D-8FC7-2047C0CD651F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
